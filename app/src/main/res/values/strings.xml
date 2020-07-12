@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ready Baking App</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Bake Time</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_recipe_list">Recipes</string>
+    <string name="title_recipe_detail">Recipe Detail</string>
+    <string name="button_next">Next Step</string>
+    <string name="show_ingredients">Show Ingredients</string>
+    <string name="previous_button">Prev Step</string>
+
+</resources>

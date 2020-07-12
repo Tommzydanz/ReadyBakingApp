@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    android:background="@drawable/main_background"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/shortDescTextView"
+        android:textSize="28sp"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_light"
+        android:textStyle="bold"
+        tools:text="Starting prep"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/longDescTextView"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_regular"
+        android:textSize="16sp"
+        tools:text="1. Preheat the oven to 350\u00b0F. Butter a 9 \"
+        />
+</LinearLayout>
